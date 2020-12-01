@@ -1,0 +1,1 @@
+@py C:\Users\Dell\PythonScripts\mastercontrol.py %*
